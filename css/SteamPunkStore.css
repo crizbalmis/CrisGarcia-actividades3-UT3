@@ -1,0 +1,24 @@
+body {
+    background-image: url(../img/fondo.jpg);
+}
+
+.card{
+    margin-top:2vw ;
+    width: 18rem;
+    
+}
+footer{
+    margin-top: 1vw;
+}
+.producto {
+    width: 10vw;
+    margin: 10px;
+}
+.text-center{
+    background-color: rgba(0, 0, 0, 0.2);
+
+}
+.card-body{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
